@@ -1,0 +1,30 @@
+/* Global Styles Starts Here*/
+.wholeContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.middleContainer {
+  display: flex;
+  flex-direction: column;
+}
+/* Global Styles Ends Here*/
+
+/* Styles For Anik Starts Here */
+/* Styles For Anik Ends Here */
+
+/* Styles For Adnan Starts Here */
+/* Styles For Adnan Ends Here */
+
+/* Styles For Tanmay Starts Here */
+/* Styles For Tanmay Ends Here */
+
+/* Media Quires */
+/* Media Quires For Anik Starts Here */
+/* Media Quires For Anik Ends Here */
+
+/* Media Quires For Adnan Starts Here */
+/* Media Quires For Adnan Ends Here */
+
+/* Media Quires For Tanmay Starts Here */
+/* Media Quires For Tanmay Ends Here */
